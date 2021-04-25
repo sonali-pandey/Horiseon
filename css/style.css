@@ -133,7 +133,7 @@ footer {
 }
 
 /* No content displayed under footer*/
-footer h2 {
+footer h4 {
     display: none;
     /*font-size: 20px;*/
 }
