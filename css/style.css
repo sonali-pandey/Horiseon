@@ -62,6 +62,7 @@ header nav ul li {
 }
 /* Header Style End */
 
+/* Hero style */
 .hero {
     height: 800px;
     width: 100%;
@@ -70,6 +71,7 @@ header nav ul li {
     background-size: cover;
     background-position: center;
 }
+/* Hero style end */
 
 /* Content Style Start */
 .content {
@@ -135,7 +137,6 @@ footer {
 /* No content displayed under footer*/
 footer h4 {
     display: none;
-    /*font-size: 20px;*/
 }
 
 /* No content displayed under footer section*/
