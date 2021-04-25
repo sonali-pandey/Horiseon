@@ -10,13 +10,7 @@ Optimised site [Horiseon](https://sonali-pandey.github.io/Horiseon/) to follow a
 
 * Accessible alt attributes for the following images
 
-    * ![People around a table at a meeting](./assets/images/digital-marketing-meeting.jpg|200)
-    * ![Decorative image](./assets/images/brand-awareness.png)
-    * ![Decorative image](./assets/images/cost-management.png=200x)
-    * ![Decorative image](./assets/images/lead-generation.png=200x)
-    * ![Decorative image](./assets/images/online-reputation-management.jpg=200x)
-    * ![Decorative image](./assets/images/search-engine-optimization.jpg=200x)
-    * ![Decorative image](./assets/images/social-media-marketting.jpg=200x)
+    ![People around a table at a meeting](./assets/images/digital-marketing-meeting.jpg) ![Decorative image](./assets/images/brand-awareness.png) ![Decorative image](./assets/images/cost-management.png) ![Decorative image](./assets/images/lead-generation.png) ![Decorative image](./assets/images/online-reputation-management.jpg) ![Decorative image](./assets/images/search-engine-optimization.jpg) ![Decorative image](./assets/images/social-media-marketting.jpg)
 
 
 * Sequential heading attributes
