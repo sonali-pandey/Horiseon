@@ -10,8 +10,8 @@ Optimised site [Horiseon](https://sonali-pandey.github.io/Horiseon/) to follow a
 
 * Accessible alt attributes for the following images
 
-    * ![People around a table at a meeting](./assets/images/digital-marketing-meeting.jpg=200x)
-    * ![Decorative image](./assets/images/brand-awareness.png=200x)
+    * ![People around a table at a meeting](./assets/images/digital-marketing-meeting.jpg =200x)
+    * ![Decorative image](./assets/images/brand-awareness.png)
     * ![Decorative image](./assets/images/cost-management.png=200x)
     * ![Decorative image](./assets/images/lead-generation.png=200x)
     * ![Decorative image](./assets/images/online-reputation-management.jpg=200x)
