@@ -1,4 +1,4 @@
-# Challenge 01: Horiseon - A marketting Agency
+# Challenge 01: Horiseon - A marketing Agency
 
 Optimised site [Horiseon](https://sonali-pandey.github.io/Horiseon/) to follow accessibility standards.
 
